@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there i'm Muhodari Sage 👋
+
+E-commerce: https://kha23accessories.netlify.app/
+save picture app: https://savepicture.netlify.app/
+vue-simple routing: https://msage-vue-routing.netlify.app/
+vue RFID-transaction app: https://gitash-rfid-nodemcu.netlify.app/
+django rest framework: http://ec2-13-59-87-224.us-east-2.compute.amazonaws.com/api/
+
 
 <!--
 **Muhodari/Muhodari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
