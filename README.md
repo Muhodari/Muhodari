@@ -1,6 +1,7 @@
 ### Hi there i'm Muhodari Sage 👋
 
-- E-commerce: https://kha23accessories.netlify.app/                                                                                                                              
+- E-commerce(Nodejs,angular): https://kha23accessories.netlify.app/   
+- E-commerce(Django , vue): https://django-shoe-e-commerce.netlify.app/                                                                                                             
 - save picture app: https://savepicture.netlify.app/
 - vue-simple routing: https://msage-vue-routing.netlify.app/
 - vue RFID-transaction app: https://gitash-rfid-nodemcu.netlify.app/
