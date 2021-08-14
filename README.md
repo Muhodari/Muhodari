@@ -7,7 +7,7 @@
 - vue RFID-transaction app: https://gitash-rfid-nodemcu.netlify.app/
 - django rest framework: http://ec2-13-59-87-224.us-east-2.compute.amazonaws.com/api/
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Muhodari.Muhodari)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=Muhodari.Muhodari) -->
 
 
 
