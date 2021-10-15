@@ -10,7 +10,7 @@
 - django chat: https://djangochatsag.herokuapp.com/
 - django weather Detector: https://weatherdetector2.herokuapp.com/
 - portifolio: https://muhodari.vercel.app/
-- netflix clone: https://movies-all.netlify.app/
+- React netflix clone: https://movies-all.netlify.app/
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Muhodari.Muhodari)
 
